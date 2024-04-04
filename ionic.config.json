@@ -1,0 +1,7 @@
+{
+  "name": "Peso/Altura",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
